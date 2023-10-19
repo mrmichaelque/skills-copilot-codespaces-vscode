@@ -1,6 +1,19 @@
 {
-    // Name this configuration
-    "name": "Codespace for Skills!",
+        <!DOCTYPE html>
+        html lang:en
+        <head>         
+    <meta charsel="UTF-8/>"
+        <meta name="viewport"content=width, initial-scale=1.0"/>
+        <title>Codespace for Skills!</title>,
+         <meta http-equiv="X-UA-Compatible"
+            <t it it
+<ltnk href="style.css" />
+head>
+<bodp
+<dtv
+<div
+<script
+8/bOdy*
     "customizations": {
         "vscode": {
             "extensions": [
